@@ -1,4 +1,4 @@
-# PLEASE READ #
+# PLEASE READ 
 
 Do not OVERWRITE your header.php and footer.php unless you know what you are doing.
 If you just want to copy some lines with modifications please find this lines in "header.php" and "footer.php" 
@@ -14,6 +14,5 @@ Inside this line is required to work the mods properly
 
 #CREDITS
 
-Flux Ragnarok Control Panel Founder
-
 Matthew Harris and Nikunj Mehta.
+(Flux Ragnarok Control Panel Founder)
