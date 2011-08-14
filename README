@@ -1,0 +1,12 @@
+# PLEASE READ #
+
+Do not OVERWRITE your header.php and footer.php unless you know what you are doing.
+If you just want to copy some lines with modifications please find this lines in "header.php" and "footer.php" 
+
+with
+
+<!--Start Flux Modification -->
+
+Inside this line is required to work the mods properly
+
+<!--End Flux Modification -->
